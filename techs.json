@@ -1,0 +1,74 @@
+[
+    {
+       "name":"HTML",
+       "logo":"html.png",
+       "usage":"Webfejlesztés",
+       "extension":"html",
+       "url":"https://hu.wikipedia.org/wiki/HTML",
+       "tutorial":"https://www.w3schools.com/html/default.asp"
+    },
+    {
+       "name":"CSS",
+       "logo":"css.png",
+       "usage":"Webfejlesztés",
+       "extension":"css",
+       "url":"https://en.wikipedia.org/wiki/CSS",
+       "tutorial":"https://www.w3schools.com/css/default.asp"
+    },
+    {
+       "name":"JavaScript",
+       "logo":"js.png",
+       "usage":"Webfejlesztés",
+       "extension":"js",
+       "url":"https://en.wikipedia.org/wiki/JavaScript",
+       "tutorial":"https://www.w3schools.com/js/default.asp"
+    },
+    {
+       "name":"Java",
+       "logo":"java.png",
+       "usage":"Mobil alkalmazás, asztali alkalmazás",
+       "extension":"java",
+       "url":"https://en.wikipedia.org/wiki/Java_(programming_language)",
+       "tutorial":"https://www.w3schools.com/java/default.asp"
+    },
+    {
+       "name":"Python",
+       "logo":"py.png",
+       "usage":"Webfejlesztés, adatvizualizáció, adatanalízis, automatizálás",
+       "extension":"py",
+       "url":"https://en.wikipedia.org/wiki/Python_(programming_language)",
+       "tutorial":"https://www.w3schools.com/python/default.asp"
+    },
+    {
+       "name":"Ruby",
+       "logo":"rb.png",
+       "usage":"Webfejlesztés, meta programozás, automatizálás",
+       "extension":"rb",
+       "url":"https://en.wikipedia.org/wiki/Ruby_(programming_language)",
+       "tutorial":"https://www.ruby-lang.org/en/documentation/quickstart/"
+    },
+    {
+       "name":"C#",
+       "logo":"csharp.png",
+       "usage":"Webfejlesztés, mobil alkalmazás, asztali alkalmazás, Unity",
+       "extension":"cs",
+       "url":"https://hu.wikipedia.org/wiki/C_Sharp",
+       "tutorial":"https://www.w3schools.com/cs/index.php"
+    },
+    {
+       "name":"C++",
+       "logo":"cpp.png",
+       "usage":"Automatizálás, mobil alkalmazás, asztali alkalmazás, Unreal Engine",
+       "extension":"cpp",
+       "url":"https://hu.wikipedia.org/wiki/C%2B%2B",
+       "tutorial":"https://www.w3schools.com/cpp/"
+    },
+    {
+       "name":"Kotlin",
+       "logo":"kt.png",
+       "usage":"Android fejlesztés",
+       "extension":"kt",
+       "url":"https://en.wikipedia.org/wiki/Kotlin_(programming_language)",
+       "tutorial":"https://www.w3schools.com/KOTLIN/index.php"
+    }
+ ]
